@@ -15,7 +15,7 @@ The folder structure is the following:
 To compile the Sass files and obtain the `bootstrap.css` file, run:
 
 ```
-sass stylesheets/bootstrap.sass:stylesheets/bootstrap.css
+sass stylesheets/bootstrap.scss:stylesheets/bootstrap.css
 ```
 
 While working on the `.scss` files, you can watch for changes using the command:
